@@ -37,10 +37,10 @@
 <br>
 <div align=center>
   <a href="#" title="Tranphongdev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranphongdev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Tranphongdev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tranphongdev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -65,11 +65,6 @@
 
 <br>
 
-<p>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/khanhphong47/" target="_blank">https://www.facebook.com/trungquandev</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:tdp.dinhphong@gmail.com" target="_top">tdp.dinhphong@gmail.com</a></strong>
-</p>
 <a href="#" target="_blank">
   <img src="images/1229872.jpg" width="1200" alt="tranphongdev-official" />
 </a>
