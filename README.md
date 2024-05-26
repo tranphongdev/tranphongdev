@@ -64,12 +64,6 @@
 </div>
 
 <br>
-
-<a href="#" target="_blank">
-  <img src="images/1229872.jpg" width="1200" alt="tranphongdev-official" />
-</a>
-
-<br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
