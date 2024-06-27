@@ -49,16 +49,16 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/khanhphong47/" target="blank">
+  <a href="https://www.facebook.com/tranphong0407/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tranphongdev-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/dinhphongdev/" target="blank">
+  <a href="https://www.linkedin.com/in/tranphongdev/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tranphongdev-linkedin" />
   </a>
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="tranphongdev-instagram" />
   </a>
-  <a href="mailto:tdp.dinhphong@gmail.com" target="top">
+  <a href="mailto:tdp.dinhphong.work@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tranphongdev-email" />
   </a>
 </div>
